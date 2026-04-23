@@ -17,8 +17,8 @@ To use Lazy Mouse, you must have both the PC "Receiver" and the Android app conn
 *   **Microsoft .NET Framework 3.5**: This software requires .NET 3.5 to run. 
 
 ### **Installation Steps**
-1.  **PC Installation**: Download and run the `LazyMouse2.exe` on your Windows computer.
-2.  **Android Installation**: Install the `LazyMouse2.apk` on your mobile device.
+1.  **PC Installation**: Download and run the `Lazy_Mouse_2.0.0.1.exe` on your Windows computer.
+2.  **Android Installation**: Install the `Lazy_Mouse_1.0.1.2.apk` on your mobile device.
 3.  **Connection**: 
     - Ensure both devices are on the same Wi-Fi.
     - Open the mobile app and select your computer from the list to connect.
@@ -26,8 +26,8 @@ To use Lazy Mouse, you must have both the PC "Receiver" and the Android app conn
 ## 📦 Download Binaries
 
 Find the archived files in the `releases` section:
-- **PC Receiver**: `LazyMouse2.exe`
-- **Android App**: `LazyMouse2.apk`
+- **PC Receiver**: `Lazy_Mouse_2.0.0.1.exe`
+- **Android App**: `Lazy_Mouse_1.0.1.2.apk`
 
 ## ⚠️ Disclaimer
 This is an unofficial archive. The software is provided "as-is." Users are encouraged to scan all binaries with antivirus software before installation.
