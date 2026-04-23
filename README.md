@@ -1,4 +1,4 @@
-# Lazy Mouse (Archived) 🖱️📱
+# Lazy Mouse 2 (Archived) 🖱️📱
 
 Lazy Mouse is a versatile remote control tool that transforms your Android device into a wireless mouse, keyboard, and full PC controller. Since the official website (`lzmouse.com`) is currently offline, this repository serves as a public host for the last known stable binaries.
 
